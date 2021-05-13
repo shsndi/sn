@@ -10,7 +10,7 @@ public class Total {
 			
 		
 		
-		System.out.print(i);
+		
 		System.out.print("hi");}
 		
 
